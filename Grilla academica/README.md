@@ -105,4 +105,4 @@ El sistema sigue una **arquitectura modular desacoplada orientada a datos**, sep
 | `Q` / `E` | Rota la grilla +5 grados o -5 grados. |
 | `+` / `-` | Aumenta o disminuye el escalamiento en `0.05`. |
 | `0` | Reinicia traslación, rotación y escala a la matriz identidad. |
-| `ESC` | Cancela un triángulo en progreso o cierra la ventana. |
+| `ESC` | Cancela un triángulo en progreso o cierra la ventan13a. |
